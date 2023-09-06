@@ -1,0 +1,30 @@
+1694024101503	geckodriver	INFO	Listening on 127.0.0.1:52917
+1694024102015	mozrunner::runner	INFO	Running command: "C:\\Users\\APU\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debugging-po ... 918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\APU\\AppData\\Local\\Temp\\rust_mozprofilelsyxR1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694024102235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694024102282	Marionette	INFO	Listening on port 52925
+WebDriver BiDi listening on ws://127.0.0.1:52918
+Read port: 52925
+1694024102415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52918/devtools/browser/f5de705a-ae0e-4781-896b-5f391a61c41c
+JavaScript warning: https://tags.tiqcdn.com/utag/aaa/ace/prod/utag.sync.js, line 68: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://app.ace.aaa.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=812101574, line 1: unreachable code after return statement
+JavaScript warning: https://app.ace.aaa.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=812101574, line 1: unreachable code after return statement
+JavaScript warning: https://app.ace.aaa.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=812101574 line 1 > eval, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.ace.aaa.com."
+1694024136609	Marionette	INFO	Stopped listening on port 52925
+JavaScript warning: https://cdn.quantummetric.com/qscripts/quantum-aaa.js, line 154: Script terminated by timeout at:
+uf/</<@https://cdn.quantummetric.com/qscripts/quantum-aaa.js:154:263
+
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-web-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

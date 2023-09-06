@@ -1,0 +1,39 @@
+{
+	"page1": {
+		"select":[1, 2]
+	},
+	"page2": {
+		"policyNumber":"123ASDF33",
+		"firstNameFirstInsured": "Smith",
+		"lastNameFirstInsured": "firstName",
+		"firstNameSecondInsured": "Smith",
+		"lastNameSecondInsured": "firstName",
+		"street": "123 Main Street",
+		"unitNumber": "Apt 7",
+		"city": "Los Angeles",
+		"state": "CA",
+		"zip": "90015"
+	},
+	"page3": {
+		"select": 2,
+		"clauseName": "clauseNameHere",
+		"successorLanguage": "Lender",
+		"mortgageeMailingAddress": "555 Pine Street",
+		"mortgageeUnitNumber": "6",
+		"mortgageeCity": "Dallas",
+		"mortgageeState": "TX",
+		"mortgageeZipCode": "75015",
+		"mortgageeLoanNumber": "456QWRE8",
+		"Escrowed": "yes",
+		"Effective Date": "7"
+	},
+	"page4": {
+		"select": 1,
+		"requesterFullName": "Frank White",
+		"companyName": "ABC Company Inc",
+		"requesterEmail": "Frank@ABCinc.com",
+		"requesterPhoneNumber": "(555) 444-1212",
+		"preferred": "email",
+		"upload": "no"
+	}
+}
